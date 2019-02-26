@@ -1,0 +1,9 @@
+UDP
+    - stream 1235. Send 500mb recived 117MB
+    - stop and wait 16087 ms. Send 500 mb recived 500mb
+
+
+TCP
+
+    - stream 2766. Send 500mb recived 500mb
+    - stop and wait 15473. Send 500mb recived 500mb
